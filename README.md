@@ -1,5 +1,10 @@
-# Projeto (Sistema de Xadrez) ♟️
-Repositório criado para o Projeto (Chess System)
+# Project (Chess System) ♟️
+Repository created for the project (Chess System)
 
-## Links para orientação...
-[Link de Instruções para o Projeto](https://github.com/GustavoGentofanti/chess-system-java/files/8673741/14-projeto-sistema-xadrez.pdf)
+### :large_blue_circle: Final Project...
+
+![image](https://user-images.githubusercontent.com/98665008/170556157-cac8f1a4-a8d8-4813-acd7-882902ff95bb.png)
+
+### :large_blue_circle: Links to instructions...
+
+[Click here](https://github.com/GustavoGentofanti/chess-system-java/files/8673741/14-projeto-sistema-xadrez.pdf)
